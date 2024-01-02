@@ -11,4 +11,4 @@ python train_cv.py
 
 
 # Acknowledgments
-This code is inspired by HFBSurv and Pathomic Fusion.
+This code is inspired by Pathomic Fusion.
