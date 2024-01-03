@@ -1,0 +1,20 @@
+----------------- Options ---------------
+                    beta1: 0.9                           
+                    beta2: 0.999                         
+                 dataroot: Preprocessed_Data             
+                 datatype: cancer_lgg_val_data.pkl       
+              epoch_count: 1                             
+                 exp_name: Survival prediction           
+                  gpu_ids: 0                             
+               lambda_reg: 0.003                         
+                       lr: 0.00012                       
+                  measure: 1                             
+               model_name: MIF                           
+               model_save: Experimental_results/model_save/
+                    niter: 0                             
+              niter_decay: 200                           
+                  results: Experimental_results/results/ 
+                  verbose: 1                             
+             weight_decay: 1e-05                         
+----------------- End -------------------
+/n
