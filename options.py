@@ -30,7 +30,7 @@ def parse_args():
 
     parser.add_argument('--gpu_ids', type=str, default='0', help='gpu ids: e.g. 0; 0,1,2; 0,2. use -1 for CPU')
 
-    parser.add_argument('--model_name', type=str, default='HFBSurv', help='mode')
+    parser.add_argument('--model_name', type=str, default='MIF', help='mode')
     parser.add_argument('--measure', default=1, type=int, help='enables measure while training (make program faster)')
     parser.add_argument('--verbose', default=1, type=int)
 
