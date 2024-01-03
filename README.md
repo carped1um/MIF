@@ -6,9 +6,10 @@ git clone https://github.com/carped1um/MIF.git
 Examples shown below for training the survival predictive model:
 
 Training:
-
 python train_cv.py
 
+Testing:
+python test_cv.py
 
 # Acknowledgments
 This code is inspired by Pathomic Fusion.
